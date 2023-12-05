@@ -1,5 +1,10 @@
 # H.E.D.N.O_auto_app Multiple Choice Excel Data Extractor  
-This Python script offers a GUI-based tool to extract and consolidate specific data from multiple Excel sheets based on user-selected choices(as seen in the HEDNOscript.py).  
+This Python script offers a GUI-based tool to extract and consolidate specific data from multiple Excel sheets based on user-selected choices(as seen in the HEDNOscript.py).    
+
+**Path to clone**
+```bash
+git clone https://github.com/lazasof/H.E.D.N.O_auto_app.git
+```
 
 **Overview**   
 The script utilizes the tkinter library to create a graphical user interface (GUI) that allows users to:  
